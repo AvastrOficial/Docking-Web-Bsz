@@ -22,9 +22,6 @@ Un **CDN (Content Delivery Network)** es una red que permite cargar archivos (CS
 Agrega esto dentro de tu HTML:
 
 ```html
-<!-- CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/AvastrOficial/estiloweb@main/nube/estilo/DokingBsz/0.0.0.css">
-
 <!-- JavaScript -->
 <script src="https://cdn.jsdelivr.net/gh/AvastrOficial/estiloweb@main/nube/Funciones/DokingBsz/0.0.0.js"></script>
 ```
